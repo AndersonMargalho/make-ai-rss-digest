@@ -1,6 +1,7 @@
 # Automated News Digest Pipeline (Make.com)
 
-![Workflow architecture](architecture.png)
+<img width="1360" height="638" alt="Architecture End-to-end automation logic flow within Make platform" src="https://github.com/user-attachments/assets/514bd27f-abc8-43dd-87a2-e6ff134099d7" />
+
 
 End-to-end automation that extracts articles from a public RSS feed, transforms them into concise summaries with a generative-AI model, and loads the result into a formatted email — built visually on the Make platform, no hand-written code.
 
@@ -32,7 +33,8 @@ Each `{n.field}` placeholder is a live reference resolved at runtime, so the ema
 
 ## Output Evidence
 
-![Delivered digest email](output-email.png)
+<img width="1089" height="518" alt="Output Automated AI Digest delivered via Make com workflow" src="https://github.com/user-attachments/assets/4127a589-65cb-4a66-830c-36efccd2097d" />
+
 
 Real message received in the inbox: headline pulled from the feed, AI-generated summary in the body, and a working button linking back to the source article.
 
