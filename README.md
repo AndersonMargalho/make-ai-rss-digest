@@ -33,7 +33,7 @@ Each `{n.field}` placeholder is a live reference resolved at runtime, so the ema
 
 ## Output Evidence
 
-<img width="1089" height="518" alt="Output Automated AI Digest delivered via Make com workflow" src="https://github.com/user-attachments/assets/4127a589-65cb-4a66-830c-36efccd2097d" />
+<img width="1092" height="483" alt="print gmail" src="https://github.com/user-attachments/assets/c90e2dcb-d4ac-46f1-8e56-7e11c290b9d4" />
 
 
 Real message received in the inbox: headline pulled from the feed, AI-generated summary in the body, and a working button linking back to the source article.
